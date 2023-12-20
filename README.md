@@ -1,3 +1,71 @@
+## Vertex Decentralized Cryptocurrency Exchange 
+https://vertex-decentralized-crypto-exchange.netlify.app/
+<br>
+<br>
+Vertex is a decentralized cryptocurrency exchange with MetaMask pairing, live smart contract data fetching, and the ability to swap ERC20 tokens on the Goerli Testnet. 
+
+## Prerequisites
+MetaMask cryptocurrency wallet
+<br>
+<br>
+**If user desires to swap cryptocurrencies, they will need a balance of WETH on the Goerli Testnet**
+
+## Instructions
+**To set up a local copy, follow these simple steps:**  
+```
+1. git clon https://github.com/jscoding10/vertex-decentralized-cryptocurrency-exchange.git
+2. cd vertex-decentralized-cryptocurrency-exchange-main
+3. npm install  
+4. npm run react-app:start
+```
+The local copy of Vertex runs on localhost:3000. 
+<br>
+<br>
+**The deployed version of Vertex can be found at:** https://vertex-decentralized-crypto-exchange.netlify.app/
+<br>
+<br>
+**How to use Vertex Decentralized Cryptocurrency Exchange**
+1. Install and run Vertex on localhost:3000 or use the deployed version found at the link above.
+2. Click the "Connect Wallet" button in the top right corner.
+3. Choose which account to connect in the MetaMask popup window. Vertex should show the wallet address where the "Connect Wallet" button was if wallet connection is successful.
+4. Select the token to be swapped and enter the amount. Vertex should show the current balance of the selected token in the MetaMask wallet.
+5. Select which token from the trading pairs the token in Step 4 will be swapped for. Vertex should show how much of the token will be received.
+6. Click the "Approve" button on the bottom and approve the transaction in the MetaMask popup window. 
+7. Vertex will display a message depending upon if the swap if successful or not. 
+
+
+## Technology Used
+### Client
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<br>
+<br>
+
+
+### Smart Contract  
+Cranq, MetaMask, ALchemy, Smart Contracts tools
+<br>
+<br>
+
+
+## Lessons Learned
+
+
+## Improvements
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create Eth App](https://github.com/paulrberg/create-eth-app).
 
 ## Project Structure
