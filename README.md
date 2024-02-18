@@ -3,7 +3,7 @@
 https://github.com/jscoding10/vertex-decentralized-cryptocurrency-exchange/assets/147340427/0f6592eb-fd20-4201-be59-2a081b43aca9
 
 <br>
-<img width="100%" alt="vertex-screen-width" src="https://github.com/jscoding10/vertex-decentralized-cryptocurrency-exchange/assets/147340427/e58015f2-adbd-433d-93ed-a4ec630a6911">
+<img width="100%" alt="Vertex Exchange" src="https://github.com/jscoding10/vertex-decentralized-cryptocurrency-exchange/assets/147340427/e58015f2-adbd-433d-93ed-a4ec630a6911">
 
 <br>
 <br> 
